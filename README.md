@@ -12,5 +12,5 @@ https://velog.io/@csm2652/series/%EC%9C%A4%EC%84%B1%EC%9A%B0-%EC%97%B4%ED%98%88C
 
 ## 'Passion_C++' Bookmark
 
-91p malloc&free, new&delete, heap&stack
+91p malloc&free, new&delete, heap&stack  
 95p Question 02-3

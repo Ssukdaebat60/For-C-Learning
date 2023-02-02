@@ -16,3 +16,4 @@ https://velog.io/@csm2652/series/%EC%9C%A4%EC%84%B1%EC%9A%B0-%EC%97%B4%ED%98%88C
 95p Question 02-3  
 115p About enum  
 127p Header File
+127p PreProcessor(#if)

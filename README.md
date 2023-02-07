@@ -6,7 +6,7 @@
 https://www.programiz.com/cpp-programming/online-compiler/
 
 
-## 'Passion_C++' Bookmark
+## 'A_Passionate_C++' Bookmark
 
 33p inline function & macro function  
 63p pointer  

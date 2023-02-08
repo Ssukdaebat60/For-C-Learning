@@ -18,7 +18,7 @@ https://www.programiz.com/cpp-programming/online-compiler/
 127p Header File  
 127p PreProcessor(#if)  
 158p Const Function  
-176p Member Initializer(with Const)&Constructor Overloading  *
+176p Member Initializer(with Const)&Constructor Overloading  *  
 186p Private Constructor  
 187p Deconstructor  
 196p This Pointer  

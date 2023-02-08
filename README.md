@@ -22,5 +22,5 @@ https://www.programiz.com/cpp-programming/online-compiler/
 186p Private Constructor  
 187p Deconstructor  
 196p This Pointer  
-215p Copy Constructor // when it is needed?
+215p Copy Constructor // when it is needed?  
 225p Deep Copy

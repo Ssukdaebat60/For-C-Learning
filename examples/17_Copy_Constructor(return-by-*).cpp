@@ -29,7 +29,7 @@ int main() {
     A.showInfo();
     B.showInfo();
     cout<<endl;
-    A.reVal(B);
+    A.reVal(B); // Temporary_Object
     A.reRef(B);
     return 0;
 }

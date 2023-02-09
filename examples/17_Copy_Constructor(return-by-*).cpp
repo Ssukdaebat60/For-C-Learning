@@ -2,19 +2,19 @@
 
 using namespace std;
 
-class tmpObj{
+class reThis{
     private:
     public:
-        tmpObj(){
+        reThis(){
         }
-        tmpObj(const tmpObj &copy) {
+        reThis(const reThis &copy) {
             cout<<"copy constructor is called"<<endl;
         }
-        tmpObj reVal(tmpObj ob){
+        reThis reVal(reThis ob){
             cout<<"reVal_return : ";
             return ob;
         }
-        tmpObj* reRef(tmpObj ob){
+        reThis* reRef(reThis ob){
             cout<<"reRef_return : ";
             return &ob;
         }
@@ -24,8 +24,8 @@ class tmpObj{
 };
 
 int main() {
-    tmpObj A;
-    tmpObj B(A);
+    reThis A;
+    reThis B(A);
     A.showInfo();
     B.showInfo();
     cout<<endl;

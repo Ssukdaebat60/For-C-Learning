@@ -28,3 +28,5 @@ https://www.programiz.com/cpp-programming/online-compiler/
 230p Copy Constructor(call-by-?)  
 232p Copy Constructor(return-by-?)  
 237p Temporary Object // when it is called?  
+245p Const Object
+249p friend

@@ -5,8 +5,8 @@ using namespace std;
 
 class stcMemb{
     private:
-        static int objCnt;
     public:
+        static int objCnt;
         stcMemb(){
             cout<<++objCnt<<" stcMem classes are declared"<<endl;
         }
@@ -14,6 +14,7 @@ class stcMemb{
 int stcMemb::objCnt=0;
 
 int main() {
+    cout<<stcMemb::objCnt<<" stcMem classes are declared"<<endl; // if a static member is private -> error
     stcMemb class1;
     stcMemb class2;
     stcMemb class3;

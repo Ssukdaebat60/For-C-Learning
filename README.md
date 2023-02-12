@@ -33,3 +33,7 @@ https://www.programiz.com/cpp-programming/online-compiler/
 257p static member  
 263p static function  
 265p mutable  
+275p Control Class  
+285p Inheritance base&derived  
+291p Destructor of derived obj  
+297p Inheritance 3Types  

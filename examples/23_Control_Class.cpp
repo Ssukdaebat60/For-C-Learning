@@ -25,6 +25,9 @@ class boss{
             cout<<"======Boss====="<<endl;
             cout<<"the number of workers : "<<workerNum<<endl<<endl;
         }
+        ~boss(){
+            delete []name;
+        }
 };
 class worker{
     private:
@@ -52,6 +55,10 @@ class worker{
         void showWorkerInfo() const{
             cout<<"=====Worker====="<<endl;
             cout<<"Boss : "<<worker::getBoss()<<endl<<endl;
+        }
+        ~worker(){
+            delete []name;
+            delete []boss;
         }
 };
 class Controller{

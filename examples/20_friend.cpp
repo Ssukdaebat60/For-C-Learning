@@ -26,6 +26,9 @@ class frndClass{
             name = new char[strlen(myname)+1];
             strcpy(name, myname);
         }
+        ~frndClass(){
+            delete []name;
+        }
 };
 
 class superClass1{

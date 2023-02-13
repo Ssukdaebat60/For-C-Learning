@@ -12,12 +12,12 @@ class Person{
             name = new char[strlen(myname)+1];
             strcpy(name, myname);
         }
+        void showPersonInfo() const{
+            cout<<"Name is "<<name<<endl;
+        }
         ~Person(){
             cout<<"~Person()"<<endl;
             delete []name;
-        }
-        void showPersonInfo() const{
-            cout<<"Name is "<<name<<endl;
         }
 };
 class Student : public Person{

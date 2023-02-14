@@ -5,6 +5,9 @@
 
 https://www.programiz.com/cpp-programming/online-compiler/
 
+## Study Reference
+
+https://mangkyu.tistory.com/199
 
 ## 'A_Passionate_C++' Bookmark
 
@@ -38,4 +41,4 @@ https://www.programiz.com/cpp-programming/online-compiler/
 291p Destructor of derived obj  
 297p Inheritance 3Types  
 309p HAS-A Composition  
-309p IS-A Composition //https://mangkyu.tistory.com/199  
+309p IS-A Composition 

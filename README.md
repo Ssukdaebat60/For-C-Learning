@@ -37,5 +37,5 @@ https://www.programiz.com/cpp-programming/online-compiler/
 285p Inheritance base&derived  
 291p Destructor of derived obj  
 297p Inheritance 3Types  
-309p HAS-A Composition
-309p IS-A Composition //https://mangkyu.tistory.com/199
+309p HAS-A Composition  
+309p IS-A Composition //https://mangkyu.tistory.com/199  

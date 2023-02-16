@@ -41,4 +41,4 @@ https://mangkyu.tistory.com/199
 291p Destructor of derived obj  
 297p Inheritance 3Types  
 309p HAS-A Composition  
-309p IS-A Composition 
+309p OOP Composition 

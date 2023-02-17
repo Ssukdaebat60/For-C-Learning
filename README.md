@@ -32,7 +32,7 @@ https://mangkyu.tistory.com/199
 232p Copy Constructor(return-by-?)  
 237p Temporary Object // when it is called?  
 245p Const Object  
-249p friend // it needs code review  
+249p friend  
 257p static member  
 263p static function  
 265p mutable  
@@ -48,4 +48,4 @@ https://mangkyu.tistory.com/199
 
 - question: 16, 20, 27
 
-- code review: 28
+- code review: 20, 28

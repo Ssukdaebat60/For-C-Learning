@@ -41,7 +41,8 @@ https://mangkyu.tistory.com/199
 291p Destructor of derived obj  
 297p Inheritance 3Types  
 309p HAS-A Composition  
-309p OOP Composition 
+309p OOP Composition  
+327p Pointer&Reference with Instance  
 
 
 ## More 

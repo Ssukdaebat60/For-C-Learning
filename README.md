@@ -45,6 +45,7 @@ https://mangkyu.tistory.com/199
 327p Pointer&Reference with Instance  
 328p Overriding  
 346p Virtual Function&Abstract Class
+357p Virtual Destructor
 
 ## More 
 

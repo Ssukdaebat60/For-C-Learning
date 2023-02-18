@@ -48,6 +48,6 @@ https://mangkyu.tistory.com/199
 
 ## More 
 
-- question: 16, 20, 27
+- question: 16, 20, 27, 31
 
 - code review: 20, 28

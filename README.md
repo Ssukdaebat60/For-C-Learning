@@ -51,6 +51,6 @@ https://mangkyu.tistory.com/199
 
 ## More 
 
-- question: 16, 20, 27, 31
+- question: 16, 20, 27, 31, 34
 
 - code review: 20, 28

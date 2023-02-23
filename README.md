@@ -50,10 +50,12 @@ https://mangkyu.tistory.com/199
 379p Virtual Function with its Reference  
 383p Ambiguity of multiple inheritance  
 403p Operator Overloading as Member&Global  
-413p Unary Operator with its Position
+413p Unary Operator with its Position  
+429p cout&endl overloading  
+434p <<&>> overloading
 
 ## More 
 
-- question: 16, 20, 27, 31, 34
+- question: 16, 20, 27, 31, 34, 38
 
 - code review: 20, 28

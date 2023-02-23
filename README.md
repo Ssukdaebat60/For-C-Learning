@@ -52,7 +52,7 @@ https://mangkyu.tistory.com/199
 403p Operator Overloading as Member&Global  
 413p Unary Operator with its Position  
 429p cout&endl overloading  
-434p <<&>> overloading
+434p << overloading
 
 ## More 
 

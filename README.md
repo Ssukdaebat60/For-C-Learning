@@ -52,10 +52,12 @@ https://mangkyu.tistory.com/199
 403p Operator Overloading as Member&Global  
 413p Unary Operator with its Position  
 429p cout&endl overloading  
-434p << overloading
+434p << overloading  
+446p Assignment Operator  
+449p Assignment&Inheritance  
 
 ## More 
 
-- question: 16, 20, 27, 31, 34, 38
+- question: 16, 20, 27, 31, 34, 38, 40
 
 - code review: 20, 28

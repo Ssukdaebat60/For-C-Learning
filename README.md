@@ -57,7 +57,8 @@ https://mangkyu.tistory.com/199
 449p Assignment&Inheritance  
 457p Array Index Overloading with Const  
 466p Array&Object Adress  
-468p 2D Array Operator Overloading  
+468p 2D Array Operator Overloading
+473p void * (pointer)  
 473p new&delete Overloading  
 
 ## More 

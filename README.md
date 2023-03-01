@@ -64,6 +64,6 @@ https://mangkyu.tistory.com/199
 
 ## More 
 
-- question: 16, 20, 27, 31, 34, 38, 40, 42, 43
+- question: 16, 20, 27, 31, 34, 38, 40, 42, 43, 48
 
 - code review: 20, 28

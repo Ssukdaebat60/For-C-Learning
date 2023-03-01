@@ -61,6 +61,7 @@ https://mangkyu.tistory.com/199
 473p void * (pointer)  
 473p new&delete Overloading  
 480p Smart Pointer  
+486p Functor  
 
 ## More 
 

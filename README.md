@@ -60,6 +60,7 @@ https://mangkyu.tistory.com/199
 468p 2D Array Operator Overloading  
 473p void * (pointer)  
 473p new&delete Overloading  
+480p Smart Pointer  
 
 ## More 
 

@@ -56,10 +56,12 @@ https://mangkyu.tistory.com/199
 446p Assignment Operator  
 449p Assignment&Inheritance  
 457p Array Index Overloading with Const  
-466p Array&Object Adress
+466p Array&Object Adress  
+468p 2D Array Operator Overloading  
+473p new&delete Overloading  
 
 ## More 
 
-- question: 16, 20, 27, 31, 34, 38, 40, 42
+- question: 16, 20, 27, 31, 34, 38, 40, 42, 43
 
 - code review: 20, 28

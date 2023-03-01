@@ -55,9 +55,10 @@ https://mangkyu.tistory.com/199
 434p << overloading  
 446p Assignment Operator  
 449p Assignment&Inheritance  
+457p Array Index Overloading with Const  
 
 ## More 
 
-- question: 16, 20, 27, 31, 34, 38, 40
+- question: 16, 20, 27, 31, 34, 38, 40, 42
 
 - code review: 20, 28

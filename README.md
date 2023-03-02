@@ -62,7 +62,9 @@ https://mangkyu.tistory.com/199
 473p new&delete Overloading  
 480p Smart Pointer  
 486p Functor  
-492p Assignment Operator&Type Casting
+492p Assignment Operator&Type Casting  
+506p String Class  
+
 ## More 
 
 - question: 16, 20, 27, 31, 34, 38, 40, 42, 43, 48

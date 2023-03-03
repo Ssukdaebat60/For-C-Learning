@@ -64,6 +64,7 @@ https://mangkyu.tistory.com/199
 486p Functor  
 492p Assignment Operator&Type Casting  
 506p String Class  
+532p Template Func&General Func  
 
 ## More 
 

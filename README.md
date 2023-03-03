@@ -66,9 +66,10 @@ https://mangkyu.tistory.com/199
 506p String Class  
 532p Template Func&General Func  
 541p Template Class  
+547p Template with Arr Class  
 
 ## More 
 
 - question: 16, 20, 27, 31, 34, 38, 40, 42, 43, 48
 
-- code review: 20, 28
+- code review: 20, 28, 51, 53

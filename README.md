@@ -67,7 +67,9 @@ https://mangkyu.tistory.com/199
 532p Template Func&General Func  
 541p Template Class  
 547p Template with Arr Class  
-565p Tempalte Various Usage
+565p Tempalte Various Usage  
+570p Template Class Partial Specialization  
+573p Template delcared with Parameter  
 
 ## More 
 

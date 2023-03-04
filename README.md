@@ -70,6 +70,7 @@ https://mangkyu.tistory.com/199
 565p Tempalte Various Usage  
 570p Template Class Partial Specialization  
 573p Template delcared with Parameter  
+581p Template&static  
 
 ## More 
 

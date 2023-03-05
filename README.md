@@ -74,7 +74,10 @@ https://mangkyu.tistory.com/199
 589p try&catch&throw  
 597p Exception Handling Separation  
 599p Stack Unwinding  
-606p Exception Class & Inheritance
+606p Exception Class & Inheritance  
+615p Exception new  
+616p Exception all  
+
 
 ## More 
 

@@ -73,7 +73,8 @@ https://mangkyu.tistory.com/199
 581p Template&static  
 589p try&catch&throw  
 597p Exception Handling Separation  
-599p Stack Unwinding
+599p Stack Unwinding  
+606p Exception Class & Inheritance
 
 ## More 
 

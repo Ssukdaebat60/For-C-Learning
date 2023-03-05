@@ -72,6 +72,7 @@ https://mangkyu.tistory.com/199
 573p Template delcared with Parameter  
 581p Template&static  
 589p try&catch&throw  
+597p Exception Handling Separation
 
 ## More 
 

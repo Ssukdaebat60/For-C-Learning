@@ -71,6 +71,7 @@ https://mangkyu.tistory.com/199
 570p Template Class Partial Specialization  
 573p Template delcared with Parameter  
 581p Template&static  
+589p try&catch&throw  
 
 ## More 
 

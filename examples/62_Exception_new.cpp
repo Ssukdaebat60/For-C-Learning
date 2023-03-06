@@ -12,20 +12,22 @@ void newhandler()
 
 int main() {
     int num=0;
+    long size = 100000000000000;
     new_handler handler = set_new_handler(newhandler);
-    try{
-        while(1){
+    while(1){
+        try{
             num++;
             cout<<num<<"time(s) trying"<<endl;
-            new int[1000000000000000];
+            new int[size];
+            cout<<"___memory allocation successfull___"<<endl;
+            break;
+        }
+        catch(bad_alloc &bad){
+            size -= 1000000000000;
+        cout<<bad.what()<<endl;
         }
     }
-    catch(bad_alloc &bad){
-        cout<<bad.what()<<endl;
-        cout<<"no more allocation"<<endl;
-    }
-    
     set_new_handler(handler);
-    cout<<"end of main"<<endl;
+    cout<<"end of main _ size : "<<size<<endl;
     return 0;
 }

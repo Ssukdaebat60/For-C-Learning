@@ -77,7 +77,9 @@ https://mangkyu.tistory.com/199
 606p Exception Class & Inheritance  
 615p Exception new  
 616p Exception all  
-
+635p Four Kinds of Type Casting  
+644p Polymorphic dynamic cast  
+647p bad cast  
 
 ## More 
 
